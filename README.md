@@ -25,7 +25,7 @@ This bot demonstrates:
 ### Option 1: Using PyCharm
 1. Open PyCharm
 2. Go to `File > Project from Version Control`
-3. Enter URL: `https://github.com/nikandr-surkov/Python-Telegram-Bot-With-Stars-Payment.git`
+3. Enter URL: `https://github.com/nikandr-surkov/python-telegram-bot-with-stars-payment.git`
 4. Choose your project directory
 5. Click "Clone"
 6. Install dependencies:
@@ -36,7 +36,7 @@ This bot demonstrates:
 ### Option 2: Using Terminal
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nikandr-surkov/Python-Telegram-Bot-With-Stars-Payment.git
+   git clone https://github.com/nikandr-surkov/python-telegram-bot-with-stars-payment.git
    cd telegram-stars-bot
    ```
 2. Install dependencies:
